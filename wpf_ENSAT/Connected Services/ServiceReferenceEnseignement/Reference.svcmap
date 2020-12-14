@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="2cf2f497-7916-4320-b66a-83704f6e627e" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64728/ServiceEnseignement.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ServiceEnseignement.wsdl" MetadataType="Wsdl" ID="97e811e9-5185-44ac-aa21-c16611d4f537" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?wsdl" />
+    <MetadataFile FileName="ServiceEnseignement.xsd" MetadataType="Schema" ID="7a4aff0d-9064-4999-8a68-fdaf39d2e2d0" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?xsd=xsd3" />
+    <MetadataFile FileName="ServiceEnseignement.disco" MetadataType="Disco" ID="2b4f43c8-da17-4920-921c-ab1225468883" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?disco" />
+    <MetadataFile FileName="ServiceEnseignement1.xsd" MetadataType="Schema" ID="764273f4-220e-426c-b66b-a84321d2f0a8" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?xsd=xsd1" />
+    <MetadataFile FileName="ServiceEnseignement2.xsd" MetadataType="Schema" ID="1d3c08e5-543e-4dc8-8d05-bd4def65336d" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?xsd=xsd0" />
+    <MetadataFile FileName="ServiceEnseignement3.xsd" MetadataType="Schema" ID="9b0540b4-5bc7-4636-a496-7fcba49388c9" SourceId="1" SourceUrl="http://localhost:64728/ServiceEnseignement.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

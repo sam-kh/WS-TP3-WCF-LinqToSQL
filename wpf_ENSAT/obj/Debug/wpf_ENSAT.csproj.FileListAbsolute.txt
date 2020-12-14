@@ -1,0 +1,15 @@
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.csprojAssemblyReference.cache
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\MainWindow.g.cs
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\App.g.cs
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT_MarkupCompile.cache
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT_MarkupCompile.lref
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\bin\Debug\wpf_ENSAT.exe.config
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\bin\Debug\wpf_ENSAT.exe
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\bin\Debug\wpf_ENSAT.pdb
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\MainWindow.baml
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.g.resources
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.Properties.Resources.resources
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.csproj.GenerateResource.cache
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.csproj.CoreCompileInputs.cache
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.exe
+C:\Users\khalf\source\repos\WcfLinqToSQL_TP3\WcfServiceEnseignement\wpf_ENSAT\obj\Debug\wpf_ENSAT.pdb
